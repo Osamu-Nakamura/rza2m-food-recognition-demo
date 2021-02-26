@@ -16,7 +16,7 @@ Beginner-friendly
 
 ## Quick start
 &nbsp;You can try with only **Drag & Drop** the binary (.bin) listed below:<br>
-[Demo binary](https://github.com/renesas-rz/rza2m-food-recognition-demo/blob/main/e-AI_next_step_package/e-AI_next_step_package_data/GR-MANGO_food_menu_recognition/HardwareDebug/GR-MANGO_food_menu_recognition.bin) <br>
+[Demo binary](https://github.com/Osamu-Nakamura/rza2m-food-recognition-demo/releases/download/V1.0/demo_binary.zip) <br>
 
 
 ## How to run the demonstration  
